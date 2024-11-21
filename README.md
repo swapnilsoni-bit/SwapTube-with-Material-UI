@@ -5,7 +5,7 @@ and Material UI. The application replicates the core functionalities of YouTube,
 and channel browsing. With a modern design powered by Material UI, SwapTube ensures a seamless and user-friendly 
 experience on all devices.
 
-Key Features
+-->Key Features
 
 1).Search Videos: Find your favorite videos instantly using the Rapid API.
 
@@ -19,7 +19,7 @@ Key Features
 
 6).Modern UI: Clean and professional interface designed with Material UI.
 
-Technologies Used
+-->Technologies Used
 
 1).React.js: For building the interactive and dynamic user interface.
 
