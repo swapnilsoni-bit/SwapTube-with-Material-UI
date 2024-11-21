@@ -1,4 +1,4 @@
-SwapTube - A YouTube Clone with Material UI
+--SwapTube - A YouTube Clone with Material UI--
 
 SwapTube is a responsive and dynamic YouTube Clone developed by Swapnil Soni using React.js, Rapid API, 
 and Material UI. The application replicates the core functionalities of YouTube, such as video search, playback,
