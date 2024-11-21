@@ -29,3 +29,12 @@ experience on all devices.
 
 4).HTML5, CSS3, JavaScript: Core technologies for building web functionality and styling.
 
+About the Author
+
+Swapnil Soni
+
+As a passionate web developer, I focus on creating responsive and user-friendly applications. SwapTube is a testament to my skills in React.js, API integration, and modern UI/UX design.
+
+Feel free to reach out:
+
+swapnilsoni2001@gmail.com
