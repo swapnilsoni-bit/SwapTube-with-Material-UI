@@ -29,7 +29,7 @@ experience on all devices.
 
 4).HTML5, CSS3, JavaScript: Core technologies for building web functionality and styling.
 
--->About the Author
+---->About the Author<----
 
 Swapnil Soni
 
