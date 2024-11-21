@@ -37,4 +37,6 @@ As a passionate web developer, I focus on creating responsive and user-friendly 
 
 Feel free to reach out:
 
+Linkedin:- https://www.linkedin.com/in/swapnil-soni-1760a9174?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3ckDS2bIRLyclg1ksfUDrQ%3D%3D
+
 Email:-swapnilsoni2001@gmail.com
